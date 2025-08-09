@@ -31,14 +31,11 @@ Lms_Orm/
 │── __pycache__/     # Compiled Python files
 ```
 
-Technologies Used
-Python 3
+## Technologies Used
 
-SQLAlchemy ORM
-
-PostgreSQL
-
-Psycopg2
-
-python-dotenv
+- Python 3
+- SQLAlchemy ORM
+- PostgreSQL
+- Psycopg2
+- python-dotenv
 
