@@ -20,19 +20,16 @@ It includes database models, CRUD operations, and seed data scripts for students
 - `.env` file support for storing DB credentials securely.
 - Example usage in `main.py`.
 
----
-
-## Project Structure
+```
 Lms_Orm/
-│── crud.py # CRUD functions
-│── db.py # Database connection setup
-│── insert_data.py # Script to seed data into the database
-│── main.py # Main script to demonstrate ORM usage
-│── models.py # SQLAlchemy models
-│── .env # Environment variables (not uploaded to GitHub)
-│── pycache/ # Compiled Python files
-
----
+│── crud.py          # CRUD functions
+│── db.py            # Database connection setup
+│── insert_data.py   # Script to seed data into the database
+│── main.py          # Main script to demonstrate ORM usage
+│── models.py        # SQLAlchemy models
+│── .env             # Environment variables (not uploaded to GitHub)
+│── __pycache__/     # Compiled Python files
+```
 
 Technologies Used
 Python 3
